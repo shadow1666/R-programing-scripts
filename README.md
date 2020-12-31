@@ -1,10 +1,5 @@
 # R_Analytics_For_Movies
 
-R Programming A-Z™: R For Data Science With Real Exercises! 
-(Data Analytics, Data Science, Statistical Analysis, Packages, Functions, GGPlot2) 
-
-Course by Kirill Eremenko, SuperDataScience Team
-
 ![alt text](./Plots/Rplot.png)
 
 ![alt text](./Plots/Rplot01.png)
